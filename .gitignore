@@ -1,0 +1,33 @@
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Log files
+*.log
+logs/
+
+# Environment files
+.env
+.env.local
+.env.production
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+ehthumbs.db
+Icon?
+__MACOSX/
+
+# Cache files
+.cache/
+*.tmp
+*.temp
+
+# Local config files
+config.local.php
+settings.local.php
